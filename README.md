@@ -3,7 +3,7 @@
       tools to deliver efficiency and meaningful insights for educational institutions.
 
 # Project Aim
-![image](https://github.com/user-attachments/assets/0861b67e-3fbf-4c07-aaf1-0d5dc75beee0)
+
 
 # Key Technologies Used:
 
