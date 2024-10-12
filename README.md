@@ -48,14 +48,20 @@
 # Project Development Steps:
 
 1️⃣ Identify Stakeholders: 
+      
       - Engage with stakeholders (students, instructors, admins) to understand their needs (e.g., exam types, grading policies).
+      
       - Requirement Gathering: List key features such as automated exam generation, question bank creation, grading system, and report generation.
+      
       - Technology Stack Selection: Finalize tools like SQL for databases, SSRS for reporting, Power BI for dashboards, 
          and Python for automation or data manipulation.
 
 2️⃣ Database Design & Architecture
+     
      - Design the Database: Use SQL to create a relational database for storing exam data, questions, students, grades, etc.
+     
      - Tables for Question Bank, Exams, Student Info, Scores, and Results.
+     
      - Stored Procedures: Write SQL stored procedures to handle tasks such as fetching exam questions, 
         saving student responses, and calculating scores automatically
 
