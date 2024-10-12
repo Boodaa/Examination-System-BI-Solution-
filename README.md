@@ -49,48 +49,66 @@
 
 1️⃣ Identify Stakeholders: 
       
-      - Engage with stakeholders (students, instructors, admins) to understand their needs (e.g., exam types, grading policies).
+- Engage with stakeholders (students, instructors, admins) to understand their needs
+   (e.g., exam types, grading policies).
+
+- Requirement Gathering: List key features such as automated exam generation, question bank creation,
+   grading system, and report generation.
       
-      - Requirement Gathering: List key features such as automated exam generation, question bank creation, grading system, and report generation.
-      
-      - Technology Stack Selection: Finalize tools like SQL for databases, SSRS for reporting, Power BI for dashboards, 
-         and Python for automation or data manipulation.
+- Technology Stack Selection: Finalize tools like SQL for databases, SSRS for reporting, Power BI for dashboards, 
+   and Python for automation or data manipulation.
 
 2️⃣ Database Design & Architecture
      
-     - Design the Database: Use SQL to create a relational database for storing exam data, questions, students, grades, etc.
+- Design the Database: Use SQL to create a relational database for storing exam data, 
+   questions, students, grades, etc.
      
-     - Tables for Question Bank, Exams, Student Info, Scores, and Results.
+- Tables for Question Bank, Exams, Student Info, Scores, and Results.
      
-     - Stored Procedures: Write SQL stored procedures to handle tasks such as fetching exam questions, 
-        saving student responses, and calculating scores automatically
+- Stored Procedures: Write SQL stored procedures to handle tasks such as fetching exam questions, 
+   saving student responses, and calculating scores automatically
 
 3️⃣ Automated Exam Generation
-     - Define Exam Logic: Use parameters like difficulty levels, randomization, and question types to generate exams automatically.
-     - Data Storage: Ensure each generated exam and corresponding answers are stored efficiently in the database for retrieval.
+
+ - Define Exam Logic: Use parameters like difficulty levels, randomization, and question types to generate exams automatically.
+
+ - Data Storage: Ensure each generated exam and corresponding answers are stored efficiently in the database for retrieval.
 
 4️⃣ Grading & Scoring Automation
-     - Automate the grading process by comparing the student’s answers with correct ones stored in the database.
-     - Custom logic can be added for subjective questions, with manual grading if required.
+    
+ - Automate the grading process by comparing the student’s answers with correct ones stored in the database.
+     
+ - Custom logic can be added for subjective questions, with manual grading if required.
 
 5️⃣ SSRS Report Design: 
-     - Created custom reports with SSRS, providing detailed insights into student performance, 
+ 
+ - Created custom reports with SSRS, providing detailed insights into student performance, 
         question difficulty, and exam trends.
 
 6️⃣ Power BI Dashboard Creation:
-     - Real-time Monitoring: Use Power BI to create dynamic dashboards for live monitoring of exams, results, and performance metrics.
-     - Interactive Features: Provide drill-down capabilities to examine specific students, question categories, or exam types.
-     - Visualizations for:
-          - Student Performance Trends: Track progress over time.
-          - Question Analysis: Identify difficult or poorly answered questions.
-          - Overall Class/Group Performance: Compare between students and across exams.
+  
+- Real-time Monitoring: Use Power BI to create dynamic dashboards for live monitoring of exams, results, and performance metrics.
+     
+- Interactive Features: Provide drill-down capabilities to examine specific students, question categories, or exam types.
+     
+- Visualizations for:
+
+    - Student Performance Trends: Track progress over time.
+
+    - Question Analysis: Identify difficult or poorly answered questions.
+
+    - Overall Class/Group Performance: Compare between students and across exams.
 
 7️⃣ Testing & Quality Assurance
-     - Unit Testing: Test individual components like exam generation, grading algorithms, and report accuracy.
-     - User Acceptance Testing (UAT): Get feedback from real users (instructors, students) to validate that the system meets their needs.
-     - Data Validation: Ensure no discrepancies in data (e.g., correct scores, accurate report generation).
+  
+- Unit Testing: Test individual components like exam generation, grading algorithms, and report accuracy.
+     
+- User Acceptance Testing (UAT): Get feedback from real users (instructors, students) to validate that the system meets their needs.
+     
+- Data Validation: Ensure no discrepancies in data (e.g., correct scores, accurate report generation).
 
 8️⃣ Deployment & Monitoring: 
-     - Deployed the system securely, ensuring continuous monitoring and optimization based on user experience.
+
+- Deployed the system securely, ensuring continuous monitoring and optimization based on user experience.
 
 
