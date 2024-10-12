@@ -1,8 +1,9 @@
 # Examination System Project: Automating Exams with Data-Driven Insights
-      
-      Graduation Project at ITI—an advanced Examination System that automates the entire exam process, from question generation to real-time performance reporting. 
-      This project integrates various cutting-edge tools to deliver efficiency and meaningful insights for educational institutions.
+      This project is an automated examination system designed to streamline the process of exam generation, answering, and grading using data-driven methods. It leverages Power BI for intuitive dashboard 
+      visualizations, Python for efficient data generation, SQL for managing stored procedures, and SSRS for comprehensive reporting, offering a seamless and efficient experience for both administrators and 
+      users.
 
+      
 # Project Aim
 
 
