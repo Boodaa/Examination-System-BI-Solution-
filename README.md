@@ -115,7 +115,12 @@
 # Project Video
 - https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_powerbi-ssrs-sql-activity-7251393569419124736-o8_e?utm_source=share&utm_medium=member_desktop
 
+# Sample of updated Dashboard
 
 
-
+![WhatsApp Image 2024-10-14 at 04 58 42 (2)](https://github.com/user-attachments/assets/5fd130b6-60a7-4480-859a-a780d737ff8c)
+![WhatsApp Image 2024-10-14 at 04 58 43](https://github.com/user-attachments/assets/58341bb8-ee46-4b63-87b6-e73e87b06371)
+![WhatsApp Image 2024-10-14 at 04 58 42](https://github.com/user-attachments/assets/b3b8cc62-529e-4000-9718-4cb813ceea65)
+![WhatsApp Image 2024-10-14 at 04 58 34](https://github.com/user-attachments/assets/664f5329-b1f7-4fd6-8a1e-5dc2ec27cc83)
+![WhatsApp Image 2024-10-14 at 04 58 42 (1)](https://github.com/user-attachments/assets/cc69820c-41b0-4624-8330-349831a9dae8)
 
