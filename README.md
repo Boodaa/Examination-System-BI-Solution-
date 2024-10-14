@@ -112,3 +112,10 @@
 - Deployed the system securely, ensuring continuous monitoring and optimization based on user experience.
 
 
+# Project Video
+- https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_powerbi-ssrs-sql-activity-7251393569419124736-o8_e?utm_source=share&utm_medium=member_desktop
+
+
+
+
+
