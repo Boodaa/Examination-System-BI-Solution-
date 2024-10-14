@@ -111,9 +111,11 @@
 
 - Deployed the system securely, ensuring continuous monitoring and optimization based on user experience.
 
+# Project Post
+- https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_ppt-activity-7251446393905549312-bas7?utm_source=share&utm_medium=member_desktop
 
 # Project Video
-- https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_powerbi-ssrs-sql-activity-7251393569419124736-o8_e?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_powerbi-ssrs-sql-activity-7251448901000384512-Jehd?utm_source=share&utm_medium=member_desktop
 
 # Sample of updated Dashboard
 
@@ -124,5 +126,5 @@
 ![WhatsApp Image 2024-10-14 at 04 58 34](https://github.com/user-attachments/assets/664f5329-b1f7-4fd6-8a1e-5dc2ec27cc83)
 ![WhatsApp Image 2024-10-14 at 04 58 42 (1)](https://github.com/user-attachments/assets/cc69820c-41b0-4624-8330-349831a9dae8)
 
-# Dashboard Video 
+# Updated Dashboard Video 
 https://www.linkedin.com/posts/abdelrahman-hamdy-25b4461ab_powerbi-dashboard-datavisualization-activity-7251416053866516480-5m5a?utm_source=share&utm_medium=member_desktop
